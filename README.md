@@ -16,7 +16,7 @@ All documentation is hosted on the Rise Vision Foundation's Confluence instance,
 
 The MIT License (MIT)
 
-Copyright (c) 2016 Rise Vision Foundation
+Copyright (c) 2016-2017 Rise Vision Foundation
 Copyright (c) 2016 Lisk
 Copyright (c) 2014-2015 Crypti
 
